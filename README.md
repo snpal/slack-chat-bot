@@ -6,6 +6,8 @@ Remember to include environment variables `SLACK_APP_TOKEN`, `SLACK_BOT_TOKEN`, 
 
 Some examples of ineraction this bot is capable of: 
 
+<img width="518" alt="Screen Shot 2023-05-18 at 11 53 54 AM" src="https://github.com/snpal/slack-chat-bot/assets/31996868/1d404bc4-7f53-47e4-ba77-824d676a4898">
+
 <img width="517" alt="Screen Shot 2023-05-18 at 11 49 59 AM" src="https://github.com/snpal/slack-chat-bot/assets/31996868/1c0d0c9c-b957-4785-8ca7-3cefdb5563b9">
 
 <img width="599" alt="Screen Shot 2023-05-18 at 11 50 23 AM" src="https://github.com/snpal/slack-chat-bot/assets/31996868/9cfdfe7c-433d-4a57-a35d-f507ee16093b">
