@@ -11,7 +11,7 @@ Steps taken to build this:
 4. Enable basic, manual interaction in the Slack app (check for event listening and the ability to send messages as the bot).
 5. Integrate the chatbot with Slack to automatically generate responses for messages. 
 
-This bot can be further enhanced by tinkering with finer details such as customized responses for various event possibilities (like reactions to messages, app mentions, and more). Coverage can be added for slash commands and incoming webhooks, as well as FAQ-like suggestions for what to ask. This bot is currently operating in Socket mode, which allows for the bot to be used in workspaces without a public HTTP Request URL. It could be made public and distributable with a redirect URL. 
+This bot can be further enhanced by tinkering with finer details such as customized responses for various event possibilities (like reactions to messages, app mentions, and more). Coverage can be added for slash commands and incoming webhooks, as well as FAQ-like suggestions for what to ask. This is currently operating in Socket mode, which allows for the bot to be used in workspaces without a public HTTP Request URL. It could be made public and distributable with a redirect URL. 
 
 Some examples of ineraction this bot is capable of: 
 
