@@ -11,3 +11,7 @@ Some examples of ineraction this bot is capable of:
 <img width="599" alt="Screen Shot 2023-05-18 at 11 50 23 AM" src="https://github.com/snpal/slack-chat-bot/assets/31996868/9cfdfe7c-433d-4a57-a35d-f507ee16093b">
 
 <img width="500" alt="Screen Shot 2023-05-18 at 11 49 24 AM" src="https://github.com/snpal/slack-chat-bot/assets/31996868/8ccdeb2a-498d-4ab0-badd-3820a92e023b">
+
+<img width="515" alt="Screen Shot 2023-05-18 at 11 52 11 AM" src="https://github.com/snpal/slack-chat-bot/assets/31996868/578a86f8-e66a-4736-bab7-0013efebf958">
+
+<img width="500" alt="Screen Shot 2023-05-18 at 11 52 40 AM" src="https://github.com/snpal/slack-chat-bot/assets/31996868/3d6f6995-7c8a-42e0-9f8a-e373424164ef">
