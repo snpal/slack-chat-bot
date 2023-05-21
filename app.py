@@ -22,9 +22,15 @@ def respond(message, say):
 
 def create_index():
   directory_path = "sitemap/"
+  
+  max_input_size = 4096
+  max_tokens = 256
+  max_chunk_overlap = 20
+  chunk_size_limit = 600
 
-  llm_predictor = LLMPredictor(llm=ChatOpenAI(temperature=0.2, model_name="gpt-3.5-turbo"))
- 
+  prompt_helper = PromptHelper(max_input_size, num_outputs, max_chunk_overlap, chunk_size_limit=chunk_size_limit)
+  llm_predictor = LLMPredictor(llm=ChatOpenAI(temperature=0.2, model_name="gpt-3.5-turbo", max_tokens=max_tokens))
+    
   documents = SimpleDirectoryReader(directory_path).load_data()
   service_context = ServiceContext.from_defaults(llm_predictor=llm_predictor)
 
